@@ -39,7 +39,7 @@
     "@openzeppelin/hardhat-upgrades": "1.26.0",
     "@openzeppelin/upgrades-core": "^1.24.0",
     "@truffle/hdwallet-provider": "^1.7.0",
-    "axios": "^0.27.2",
+    "axios": "^0.34.0",
     "block-by-date-ethers": "^1.0.0",
     "chai": "^4.3.4",
     "conf": "^10.0.2",
